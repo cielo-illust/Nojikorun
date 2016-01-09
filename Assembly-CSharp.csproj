@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\NejikoController.cs" />
      <Compile Include="Assets\Scripts\SimpleFollow.cs" />
+     <Compile Include="Assets\Scripts\StageGenerator.cs" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\NejikoBaseAssets\LICENSE.txt" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
